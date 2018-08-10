@@ -76,15 +76,15 @@
                                    data-parent="#accordion" href="#collapsefour" aria-expanded="true"
                                    aria-controls="collapsefour">
                                     <span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i
-                                        class="glyphicon glyphicon-minus" aria-hidden="true"></i> Master
-                                    Degree (2010-2012)
+                                        class="glyphicon glyphicon-minus" aria-hidden="true"></i> Aptech
+                                    VietNam (2017-2020)
                                 </a>
                             </h4>
                         </div>
                         <div id="collapsefour" class="panel-collapse collapse in" role="tabpanel"
                              aria-labelledby="headingfour">
                             <div class="panel-body panel_text">
-                                <h5>University Name</h5>
+                                <h5>Aptech Computer Education</h5>
                                 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
                                 adipisci velit sed quia.
                             </div>
@@ -97,15 +97,14 @@
                                    data-parent="#accordion" href="#collapsefive" aria-expanded="false"
                                    aria-controls="collapsefive">
                                     <span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i
-                                        class="glyphicon glyphicon-minus" aria-hidden="true"></i>Diploma in
-                                    Design - (2007-2010)
+                                        class="glyphicon glyphicon-minus" aria-hidden="true"></i>PTIT HCM (2015-2020)
                                 </a>
                             </h4>
                         </div>
                         <div id="collapsefive" class="panel-collapse collapse" role="tabpanel"
                              aria-labelledby="headingfive">
                             <div class="panel-body panel_text">
-                                <h5>University Name</h5>
+                                <h5>Posts And Telecommunications Institute Of Technology</h5>
                                 Qui dolorem ipsum quia dolor sit amet, neque porro quisquam est, consectetur
                                 adipisci velit sed quia.
                             </div>

@@ -5,15 +5,15 @@
             <h3 class="agileits-title">Contact Me</h3>
             <div class="contact-w3lsrow">
                 <div class="col-md-6 contact-wthree-left">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9503398796587!2d-73.9940307!3d40.719109700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a27e2f24131%3A0x64ffc98d24069f02!2sCANADA!5e0!3m2!1sen!2sin!4v1441710758555"
-                            allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.5223930872676!2d106.78381231480138!3d10.847815192273131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175276bb276eaf7%3A0x56a6a0eafe0e3b09!2zOTcgTWFuIFRoaeG7h24sIEhp4buHcCBQaMO6LCBRdeG6rW4gOSwgSOG7kyBDaMOtIE1pbmg!5e0!3m2!1svi!2s!4v1533920521956"
+                            width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     <div class="faddressw3-agileinfo">
                         <div class="faddress-w3left">
-                            <p>756 global Place, North Sydney,<br> FA-2305,Canada </p>
+                            <p>97 Man Thien,Hiep Phu,Quan 9<br> TP HCM </p>
                         </div>
                         <div class="faddress-w3right">
-                            <p>Call us : +01 111 222 3333</p>
-                            <p>E-mail : <a href="mailto:info@example.com">mail@example.com</a></p>
+                            <p>Call us : +84 975 469 232</p>
+                            <p>E-mail : <a href="mailto:info@example.com">dinhtrancntt@gmail.com</a></p>
                         </div>
                         <div class="clearfix"></div>
                     </div>
@@ -31,8 +31,8 @@
             </div>
             <!-- footer -->
             <div class="agile-footer">
-                <p>© 2017 Simple CV. All rights reserved | Design by <a href="http://w3layouts.com/"
-                                                                        target="_blank">w3layouts</a></p>
+                <p>© 2017 Personal CV. All rights reserved | Design by <a href="https://www.facebook.com/canhdinhit"
+                                                                        target="_blank">Canh Dinh</a></p>
             </div>
             <!-- //footer -->
         </div>

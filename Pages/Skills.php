@@ -13,26 +13,26 @@
                     mauris neque. Nam aliquam turpis ante, at cursus massa ullamcorper ut. Proin id diam id nisi
                     sagittis pellentesque sed sit amet eros.</p>
                 <div class="skill-agileinfo">
-                    <div class="skillbar" data-percent="98">
-                        <span class="skillbar-title" style="background: #d35400;">HTML5</span>
+                    <div class="skillbar" data-percent="90">
+                        <span class="skillbar-title" style="background: #d35400;">PHP</span>
                         <p class="skillbar-bar" style="background: #e67e22;"></p>
                         <span class="skill-bar-percent"></span>
                     </div>
                     <!-- End Skill Bar -->
-                    <div class="skillbar" data-percent="99">
-                        <span class="skillbar-title" style="background: #2980b9;">CSS3</span>
+                    <div class="skillbar" data-percent="80">
+                        <span class="skillbar-title" style="background: #2980b9;">HTML,CSS3 </span>
                         <p class="skillbar-bar" style="background: #3498db;"></p>
                         <span class="skill-bar-percent"></span>
                     </div>
                     <!-- End Skill Bar -->
-                    <div class="skillbar" data-percent="95">
-                        <span class="skillbar-title" style="background: #2c3e50;">jQuery</span>
+                    <div class="skillbar" data-percent="75">
+                        <span class="skillbar-title" style="background: #2c3e50;">MySQL</span>
                         <p class="skillbar-bar" style="background: #2c3e50;"></p>
                         <span class="skill-bar-percent"></span>
                     </div>
                     <!-- End Skill Bar -->
                     <div class="skillbar" data-percent="70">
-                        <span class="skillbar-title" style="background: #46465e;">PHP</span>
+                        <span class="skillbar-title" style="background: #46465e;">JAVA</span>
                         <p class="skillbar-bar" style="background: #5a68a5;"></p>
                         <span class="skill-bar-percent"></span>
                     </div>

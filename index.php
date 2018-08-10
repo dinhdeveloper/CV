@@ -38,10 +38,10 @@
     <input id="slide4" class="w3slider-input" type="radio" name="slider">
     <ul class="slider">
         <?php
-        include ("About_Me.php");
-        include ("Skills.php");
-        include ("Experience.php");
-        include ("Contact.php");
+        include("Pages/About_Me.php");
+        include("Pages/Skills.php");
+        include("Pages/Experience.php");
+        include("Pages/Contact.php");
         ?>
     </ul>
     <label for="slide1"></label>
