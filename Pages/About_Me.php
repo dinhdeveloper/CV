@@ -25,12 +25,9 @@
                 <div class="col-md-8 header-w3right">
                     <h3 class="agileits-title">ABOUT ME</h3>
                     <div class="profile-agileinfo">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet sem sit
-                            amet dolor luctus pellentesque. Pellentesque eleifend tellus at interdum elementum.
-                            Nam egestas molestie elit. Vivamus sed accumsan quam, a mollis magna. Nam aliquet
-                            eros eget sapien consequat tincidunt at vel nibh. Duis ut turpis mi. Duis nec
-                            scelerisque urna, sit amet varius arcu. Aliquam aliquet sapien quis mauris semper
-                            suscipit. Maecenas pharetra dapibus posuere. </p>
+                        <p>
+
+                        </p>
                         <div class="col-md-4 col-xs-4 profile-grids">
                             <i class="fa fa-user"></i>
                             <h5>Personal Info</h5>
@@ -39,10 +36,10 @@
                                     <b>D.O.B</b> : 20-03-1995
                                 </li>
                                 <li>
-                                    <b>JOB TITLE</b> : Web Designer
+                                    <b>JOB TITLE</b> : Fresher
                                 </li>
                                 <li>
-                                    <b>HOBBIES</b> : Volleyball and gym
+                                    <b>HOBBIES</b> : Volleyball
                                 </li>
                             </ul>
                         </div>
@@ -54,10 +51,10 @@
                                     <b>PHONE</b> : +84 975 469 232
                                 </li>
                                 <li>
-                                    <b>PHONE</b> : +84 929 098 750
+                                    <b>PHONE</b> : +84 896 469 568
                                 </li>
                                 <li>
-                                    <b>ADDRESS</b> : D2 Binh Thanh, TP HCM
+                                    <b>ADDRESS</b> : 97 Man Thien,Hiep Phu,Quan 9
                                 </li>
                             </ul>
                         </div>
@@ -69,10 +66,7 @@
                                     <b>E-MAIL</b> : <a href="mailto:example@mail.com"> dinhtrancntt@gmail.com</a>
                                 </li>
                                 <li>
-                                    <b>WEBSITE</b> : <a href="#">www.myresume.com</a>
-                                </li>
-                                <li>
-                                    <b>FACEBOOK</b> : <a href="#">canhdinhit</a>
+                                    <b>FACEBOOK</b> : <a href="https://www.facebook.com/canhdinhptit">canhdinhit</a>
                                 </li>
                             </ul>
                         </div>
